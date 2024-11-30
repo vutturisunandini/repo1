@@ -1,2 +1,2 @@
-I am in branch1
+I am in feature2
 in second line
